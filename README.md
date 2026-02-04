@@ -1,8 +1,7 @@
 # A Counterfactual Framework for Data-Scarce Offline RL in Mobility Load Balancing
 
-> **⚠️ Disclaimer**: 
-1.This project and its corresponding paper have not yet undergone peer review. The code is provided for research purposes only. Please do __NOT__ download or use this repo.
-2.The content of this repo may be modified, added, or removed depending on the review status.
+> **⚠️ Disclaimer**: This project and its corresponding paper have not yet undergone peer review. The code is provided for research purposes only. Please do __NOT__ download or use this repo.
+> **⚠️ Disclaimer**: The content of this repo may be modified, added, or removed depending on the review status.
 
 ## 📖 Project Overview
 
@@ -124,5 +123,5 @@ Issues and Pull Requests are welcome! By submitting code, you agree that your co
 If you use this project in your research, please cite:
 
 ```bibtex
-[Add your citation information here]
+TODO
 ```
