@@ -1,0 +1,10 @@
+{
+    "scenario": "BS1_right_BS2_loiter_BS3_left",
+    "model": "mopo",
+    "mean_reward": -19.148746669443096,
+    "std_reward": 4.181230948537791,
+    "mean_load_balance": -0.191487466694431,
+    "std_load_balance": 0.041812309485377966,
+    "mean_throughput": 0.0,
+    "std_throughput": 0.0
+}

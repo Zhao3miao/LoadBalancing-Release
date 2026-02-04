@@ -1,0 +1,84 @@
+# Multi-License Notice
+
+This project contains code and data from multiple sources, each with its own license. The following are the license information for each component:
+
+## 1. Main Project Code - MIT License
+
+The main code of this project (unless otherwise noted) follows the MIT License:
+
+```
+MIT License
+
+Copyright (c) 2026 Shandong Normal University.All Rights Reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+## 2. PaddlePaddle Code - Apache License 2.0
+
+The file in `common` contains code from PaddlePaddle and follows Apache License 2.0:
+
+```
+   Copyright (c) 2022 PaddlePaddle Authors. All Rights Reserved.
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+```
+
+## 3. MOPO Code - MIT License
+
+The code in the MOPO/ directory follows the MIT License (see MOPO/LICENSE file):
+
+```
+MIT License
+
+Copyright (c) 2022 Yihao-Sun
+
+[Full MIT License text, please refer to MOPO/LICENSE file]
+```
+
+## 4. OSM Map Data - ODbL License
+
+This project uses map data from OpenStreetMap, which follows the Open Data Commons Open Database License (ODbL) v1.0.
+
+When using this data, you must:
+1. Attribution: You must attribute OpenStreetMap contributors.
+2. Share-Alike: If you publicly use any derivative of this data, you must also share it under the ODbL license.
+3. Keep open: Even for internal use, consider sharing under the same terms.
+
+The full ODbL license text can be found at: https://opendatacommons.org/licenses/odbl/
+
+## License Compatibility Notes
+
+1. MIT and Apache 2.0 licenses are compatible; you can freely combine code under these licenses.
+2. Use of ODbL data must comply with its specific requirements separately.
+3. When distributing a project containing ODbL data, you must clearly indicate the data source and comply with ODbL requirements.
+
+## Contributor Agreement
+
+By submitting code to this project, you agree that your contributions will be released under the MIT License.

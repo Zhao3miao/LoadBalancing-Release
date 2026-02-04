@@ -1,0 +1,10 @@
+{
+    "scenario": "BS1_right_BS3_left",
+    "model": "ppo_online",
+    "mean_reward": -10.599367538145698,
+    "std_reward": 2.3454541806042166,
+    "mean_throughput": 51921382.585094735,
+    "std_throughput": 1076309.317818142,
+    "mean_load_balance": -0.10599367538145696,
+    "std_load_balance": 0.023454541806042166
+}

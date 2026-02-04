@@ -1,0 +1,10 @@
+{
+    "scenario": "BS1_right_BS2_right_BS3_left",
+    "model": "static",
+    "mean_reward": -13.752483081589002,
+    "std_reward": 3.62011802886664,
+    "mean_throughput": 52689244.57703085,
+    "std_throughput": 1260029.6802096278,
+    "mean_load_balance": -0.13752483081589,
+    "std_load_balance": 0.0362011802886664
+}

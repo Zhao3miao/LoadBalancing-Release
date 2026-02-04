@@ -1,0 +1,10 @@
+{
+    "scenario": "BS1_right_BS2_right_BS3_left",
+    "model": "sac_offline",
+    "mean_reward": -9.858782149930759,
+    "std_reward": 9.33151808060691,
+    "mean_throughput": 43501821.29413099,
+    "std_throughput": 4157232.2518238896,
+    "mean_load_balance": -0.09858782149930762,
+    "std_load_balance": 0.09331518080606914
+}
