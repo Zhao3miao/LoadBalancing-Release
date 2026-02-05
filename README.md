@@ -53,7 +53,7 @@ Below are the visualizations of the agent's load balancing performance in both r
 ### 1. View Existing Results
 *   **Main Results**: Run `python aggregate_experiments.py` to see the summarized performance table.
 *   **Visualizations**: Check the `./plot` directory for PCA visualizations of state space coverage.
-*   **Parameter Analysis**: Detailed parameter studies can be found in `./parameter_discussion/aggregated_experiment_results.csv`.
+*   **Parameter Analysis**: Detailed parameter studies can be found in `https://drive.google.com/file/d/1VzhVcVVflma3W6DpVrISdbQInWguEdvL/view?usp=drive_link`.
 
 ### 2. Reproduce Experiments
 
